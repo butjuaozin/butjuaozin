@@ -1,0 +1,16 @@
+<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 42px 'Segoe UI', sans-serif; fill: #38BDAE; }
+    .subtitle { font: 18px 'Segoe UI', sans-serif; fill: #888; }
+  </style>
+
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <text x="50%" y="50%" text-anchor="middle" class="title">
+    Hello! I'm João
+  </text>
+
+  <text x="50%" y="75%" text-anchor="middle" class="subtitle">
+    but around here you can call me...
+  </text>
+</svg>
