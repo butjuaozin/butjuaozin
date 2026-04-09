@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/butjuaozin">
-    <img src="https://img.shields.io/badge/Profile-João-0d1117?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/butjuaozin-overview-7289da?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
 </p>
 
