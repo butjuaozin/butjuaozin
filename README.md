@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Profile-João-0d1117?style=for-the-badge&logo=github">
   </a>
 
-  <img src="assets/avatar.png" align="right" width="26%" style="border-radius: 50%;">
+  <img src="assets/avatar.png" align="right" width="26%" style="border-radius: 50%; border: 2px solid #38BDAE;">
 </p>
 
 ---
