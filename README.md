@@ -4,9 +4,9 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/butjuaozin/butjuaozin/main/assets/avatar.png" width="200px" align="right">
+<img src="assets/avatar.png" width="200px" align="right">
 
-## 👋 About Me
+<h2>👋 About Me</h2>
 
 Hi! I'm João, a passionate Software Engineering student dedicated to building impactful solutions. I specialize in full-stack development and enjoy exploring emerging technologies in Artificial Intelligence and Cybersecurity.
 
@@ -38,7 +38,7 @@ I love turning ideas into real applications, solving complex problems, and conti
 
 ---
 
-<h2 align="center">🌍 My Languages</h2>
+<h2 align="center">🌍 Languages</h2>
 
 <p align="center">
 🇧🇷 Portuguese — Native <br>
@@ -47,7 +47,7 @@ I love turning ideas into real applications, solving complex problems, and conti
 
 ---
 
-<h2 align="center">📬 Contact Here!</h2>
+<h2 align="center">📬 Contact</h2>
 
 <p align="center">
 <a href="mailto:dudsama9@gmail.com">
@@ -75,7 +75,7 @@ but you can adjust your sails."
 
 ---
 
-<h2 align="center">🚀 My Projects</h2>
+<h2 align="center">🚀 Projects</h2>
 
 <p align="center">
 All my projects are available below in my repositories 👇
