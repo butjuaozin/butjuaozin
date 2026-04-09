@@ -1,28 +1,34 @@
+<p align="center">
 <img src="assets/title.svg" width="100%">
+</p>
 
 <br>
 
-<p>
+<p align="center">
   <a href="https://github.com/butjuaozin">
     <img src="https://img.shields.io/badge/Profile-João-0d1117?style=for-the-badge&logo=github">
   </a>
+</p>
 
-  <img src="assets/avatar.png" align="right" width="26%" style="border-radius: 50%; border: 2px solid #38BDAE;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/butjuaozin/butjuaozin/main/assets/avatar.png" width="180px" style="border-radius: 50%; border: 2px solid #38BDAE;">
 </p>
 
 ---
 
-### 👋 About Me
+<h2 align="center">👋 About Me</h2>
 
+<p align="center">
 I'm João, a Software Engineering student focused on building real solutions.
-
-- 🔐 Interested in Cybersecurity  
-- 🤖 Exploring Artificial Intelligence  
-- 💻 Passionate about development and problem solving  
+<br><br>
+🔐 Interested in Cybersecurity <br>
+🤖 Exploring Artificial Intelligence <br>
+💻 Passionate about development and problem solving
+</p>
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
 
@@ -42,12 +48,14 @@ I'm João, a Software Engineering student focused on building real solutions.
 
 <h2 align="center">🌍 Languages</h2>
 
-- 🇧🇷 Portuguese — Native  
-- 🇺🇸 English — Intermediate  
+<p align="center">
+🇧🇷 Portuguese — Native <br>
+🇺🇸 English — Intermediate
+</p>
 
 ---
 
-## 📬 Contact
+<h2 align="center">📬 Contact</h2>
 
 <p align="center">
 
@@ -71,16 +79,20 @@ I'm João, a Software Engineering student focused on building real solutions.
 
 ---
 
-## 🧠 Mindset
+<h2 align="center">🧠 Mindset</h2>
 
-> "You can't control the wind,  
-> but you can adjust your sails."
+<p align="center">
+"You can't control the wind,<br>
+but you can adjust your sails."
+</p>
 
 ---
 
-## 🚀 Projects
+<h2 align="center">🚀 Projects</h2>
 
-All my projects are available below in my repositories 👇  
+<p align="center">
+All my projects are available below in my repositories 👇
+</p>
 
 ---
 
