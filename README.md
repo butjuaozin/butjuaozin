@@ -1,6 +1,6 @@
 <!-- Animated Title -->
 <p align="center">
-  <img src="assets/title.svg" width="100%" style="animation: float 3s ease-in-out infinite;">
+  <img src="assets/title.svg" width="100%">
 </p>
 
 <br>
@@ -16,7 +16,6 @@
 
 <hr>
 
-<!-- About Me -->
 <h2 align="center">👋 About Me</h2>
 <p align="center">
 I'm João, a Software Engineering student focused on building real solutions.<br>
@@ -25,7 +24,6 @@ I'm João, a Software Engineering student focused on building real solutions.<br
 
 <hr>
 
-<!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=spin" alt="HTML5">
@@ -41,7 +39,6 @@ I'm João, a Software Engineering student focused on building real solutions.<br
 
 <hr>
 
-<!-- Languages -->
 <h2 align="center">🌍 Languages</h2>
 <p align="center">
   🇧🇷 Portuguese — Native<br>
@@ -50,7 +47,6 @@ I'm João, a Software Engineering student focused on building real solutions.<br
 
 <hr>
 
-<!-- Contact -->
 <h2 align="center">📬 Contact</h2>
 <p align="center">
   <a href="mailto:dudsama9@gmail.com">
@@ -69,7 +65,6 @@ I'm João, a Software Engineering student focused on building real solutions.<br
 
 <hr>
 
-<!-- Mindset -->
 <h2 align="center">🧠 Mindset</h2>
 <p align="center">
   <em>"You can't control the wind, but you can adjust your sails."</em>
@@ -77,7 +72,6 @@ I'm João, a Software Engineering student focused on building real solutions.<br
 
 <hr>
 
-<!-- Projects Note -->
 <h2 align="center">🚀 Projects</h2>
 <p align="center">
 All my projects are available below in my <a href="https://github.com/butjuaozin">GitHub repositories</a> 👇
@@ -85,16 +79,6 @@ All my projects are available below in my <a href="https://github.com/butjuaozin
 
 <hr>
 
-<!-- Footer Capsule -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,100:58A6FF&height=100&section=footer"/>
 </p>
-
-<!-- Optional CSS Animation -->
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-</style>
