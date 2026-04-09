@@ -3,6 +3,7 @@
 </p>
 
 <br>
+<br>
 
 <img src="assets/avatar.png" width="200px" align="right">
 
