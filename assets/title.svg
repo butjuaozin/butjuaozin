@@ -1,16 +1,31 @@
-<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .title { font: bold 42px 'Segoe UI', sans-serif; fill: #38BDAE; }
-    .subtitle { font: 18px 'Segoe UI', sans-serif; fill: #888; }
-  </style>
+<svg width="100%" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
 
-  <rect width="100%" height="100%" fill="transparent"/>
+    <linearGradient id="text" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDAE"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
 
-  <text x="50%" y="50%" text-anchor="middle" class="title">
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bg)" rx="10"/>
+
+  <text x="50%" y="55%" text-anchor="middle" font-size="42" font-family="Segoe UI, sans-serif" fill="url(#text)" filter="url(#glow)">
     Hello! I'm João
   </text>
 
-  <text x="50%" y="75%" text-anchor="middle" class="subtitle">
-    but around here you can call me...
+  <text x="50%" y="78%" text-anchor="middle" font-size="16" fill="#8b949e">
+    Software Engineering • Cybersecurity • AI
   </text>
 </svg>
