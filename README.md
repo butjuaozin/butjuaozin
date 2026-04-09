@@ -24,20 +24,23 @@ I'm João, a Software Engineering student focused on building real solutions.
 
 ## 💻 Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3">
-<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk">
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp">
-<img src="https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua">
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github">
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </p>
 
 ---
 
-## 🌍 Languages
+<h2 align="center">🌍 Languages</h2>
 
 - 🇧🇷 Portuguese — Native  
 - 🇺🇸 English — Intermediate  
@@ -46,21 +49,25 @@ I'm João, a Software Engineering student focused on building real solutions.
 
 ## 📬 Contact
 
+<p align="center">
+
 <a href="mailto:dudsama9@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://linkedin.com/in/joãoeduardo01">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://instagram.com/butjuaozin">
-<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="https://discord.gg/rKVDE88a">
-<img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
+
+</p>
 
 ---
 
@@ -78,5 +85,5 @@ All my projects are available below in my repositories 👇
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,100:58A6FF&height=100&section=footer"/>
 </p>
