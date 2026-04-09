@@ -3,7 +3,6 @@
 </p>
 
 <br>
-<br>
 
 <img src="assets/avatar.png" width="200px" align="right">
 
@@ -19,9 +18,7 @@ I love turning ideas into real applications, solving complex problems, and conti
   <img src="https://img.shields.io/badge/butjuaozin-0d47a1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 </a>
 
-<br clear="right">
-
----
+<div style="clear: both;"><hr></div>
 
 <h2 align="center">💻 Tech Stack</h2>
 
