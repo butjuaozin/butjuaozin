@@ -4,9 +4,9 @@
 
 <br>
 
+<h2>About Me</h2>
 <img src="assets/avatar.png" width="200px" align="right">
 
-<h2>👋 About Me</h2>
 
 Hi! I'm João, a passionate Software Engineering student dedicated to building impactful solutions. I specialize in full-stack development and enjoy exploring emerging technologies in Artificial Intelligence and Cybersecurity.
 
@@ -18,9 +18,9 @@ I love turning ideas into real applications, solving complex problems, and conti
   <img src="https://img.shields.io/badge/butjuaozin-0d47a1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 </a>
 
-<div style="clear: both;"><hr></div>
+<br clear="right">
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack<h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
