@@ -67,8 +67,8 @@ I love turning ideas into real applications, solving complex problems, and conti
 <h2 align="center">🧠 Mindset</h2>
 
 <p align="center">
-"You can't control the wind,<br>
-but you can adjust your sails."
+"People strive to change when the pain of change becomes greater than the pain of remaining as they are.<br>
+Transform your pain into purpose."
 </p>
 
 ---
