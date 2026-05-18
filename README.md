@@ -8,9 +8,11 @@
 <img src="assets/avatar.png" width="200px" align="right">
 
 
-Hi! I'm João, a passionate Software Engineering student dedicated to building impactful solutions. I specialize in full-stack development and enjoy exploring emerging technologies in Artificial Intelligence and Cybersecurity.
+Hi! I'm João, a Software Engineering student passionate about building impactful and innovative solutions. I specialize in full-stack development and enjoy exploring technologies related to Artificial Intelligence, Cybersecurity, and modern software engineering practices.
 
-I love turning ideas into real applications, solving complex problems, and continuously learning to stay ahead in the tech world. Whether it's coding a sleek web interface, scripting in Python, or diving into cybersecurity challenges, I thrive on creating practical and innovative solutions.
+I’m driven by problem-solving, continuous learning, and transforming ideas into practical applications. From developing responsive web interfaces and working with Python to exploring security challenges and scalable systems, I focus on creating efficient and meaningful solutions.
+
+Beyond software development, I also have a strong interest in the gaming industry and game technologies, especially in areas involving interactive experiences, game systems, and emerging digital innovations. I’m always seeking opportunities to expand my skills and contribute to projects that combine creativity, technology, and real-world impact.
 
 <br>
 
