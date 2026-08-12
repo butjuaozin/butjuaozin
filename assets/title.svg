@@ -1,29 +1,96 @@
 <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Gradiente para o título -->
+  <!-- Gradientes -->
   <defs>
+
+    <!-- Gradiente suave do título: vermelho → dourado -->
     <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00f5a0"/>
-      <stop offset="100%" stop-color="#00bfff"/>
+      <stop offset="0%" stop-color="#8B0000"/>
+      <stop offset="35%" stop-color="#E3261A"/>
+      <stop offset="65%" stop-color="#F04A24"/>
+      <stop offset="100%" stop-color="#FFD23F"/>
     </linearGradient>
 
+    <!-- Gradiente do subtítulo -->
+    <linearGradient id="subtitleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C62828"/>
+      <stop offset="50%" stop-color="#E85D2A"/>
+      <stop offset="100%" stop-color="#D9A441"/>
+    </linearGradient>
+
+    <!-- Gradiente dourado -->
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A66A00"/>
+      <stop offset="40%" stop-color="#D4A72C"/>
+      <stop offset="70%" stop-color="#FFD75A"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+
+    <!-- Sombra suave -->
     <filter id="textShadow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="2" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.5"/>
+      <feDropShadow
+        dx="2"
+        dy="3"
+        stdDeviation="4"
+        flood-color="#000000"
+        flood-opacity="0.8"
+      />
     </filter>
+
+    <!-- Brilho vermelho/dourado -->
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
   </defs>
 
+
   <!-- Título -->
-  <text x="50%" y="80" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="56" font-weight="bold" font-style="italic" fill="url(#titleGradient)" filter="url(#textShadow)">
+  <text
+    x="50%"
+    y="80"
+    text-anchor="middle"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="56"
+    font-weight="bold"
+    font-style="italic"
+    fill="url(#titleGradient)"
+    filter="url(#textShadow)"
+  >
     What’s Up? I'm João!
   </text>
 
-  <!-- Subtítulo colado na linha -->
-  <text x="50%" y="120" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="24" fill="#8fa2cc" font-style="italic">
+
+  <!-- Subtítulo -->
+  <text
+    x="50%"
+    y="120"
+    text-anchor="middle"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="24"
+    fill="url(#subtitleGradient)"
+    font-style="italic"
+    filter="url(#softGlow)"
+  >
     you can call me butjuaozin, nice to meet you
   </text>
 
+
   <!-- Áreas de interesse -->
-  <text x="50%" y="170" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="18" fill="#ccc">
+  <text
+    x="50%"
+    y="170"
+    text-anchor="middle"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="18"
+    fill="url(#goldGradient)"
+    filter="url(#softGlow)"
+  >
     Software Engineering • Cybersecurity • IA
   </text>
+
 </svg>
